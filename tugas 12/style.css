@@ -1,0 +1,37 @@
+ul{
+    height: 30px;
+    width: 1400px;
+    background-color: black;
+    column-width: 70px;
+}
+.menu{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.p-text{
+    height: 310px;
+    column-width: 400px;
+    column-fill:auto;
+    column-gap: 50px;
+    column-rule: 5px double black;
+}
+.image{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.slider-img{
+    height: 600px; 
+    width: 1400px;
+    border: 2px solid white;
+}
+body{
+    background-color:#7FB9D8;
+}
